@@ -6,6 +6,9 @@ Please Mention The Change Logs & Reason of Changes For Readability and Maintaina
 Lets Make Our AGC Event Great Togather🙂
 ```
 
+## Fixes in v4.9.2
+- News page fixed
+
 ## Fixes in v4.9.1
 - Fixed extra margin around the countdown✅
 - Fixed dowload Button text wrap✅
