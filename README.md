@@ -6,6 +6,9 @@ Please Mention The Change Logs & Reason of Changes For Readability and Maintaina
 Lets Make Our AGC Event Great Togather🙂
 ```
 
+## Fixes in v4.9.3
+- Text correction in Submission-page-2024
+
 ## Fixes in v4.9.2
 - News page fixed
 
